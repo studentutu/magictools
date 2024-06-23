@@ -140,6 +140,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 - :tada: [LibreSprite](https://libresprite.github.io/) - LibreSprite is an open source fork of Aseprite.
+- :moneybag: [Lightcube](https://www.lightcube.art/) - Pixel Art Editor for Windows, supposed PSD files in addition to JPEG, PNG, BMP, GIF.
 - :free: [Multipaint](http://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
 - :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
@@ -316,6 +317,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - :tada: [raylib](https://www.raylib.com/) - a simple and easy-to-use library to enjoy videogames programming, hardware accelerated with OpenGL (1.1, 2.1, 3.3 or ES 2.0)
 - :tada: [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
+- :tada: [RGFW](https://github.com/ColleagueRiley/RGFW) - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
 - :tada: [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 - :free: [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 - :tada: [Screen 13](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
